@@ -1,2 +1,2 @@
 # AAD-B2e
-Work Account &amp; BeC Combined Sample App
+Work Account &amp; B2E Combined Sample App
